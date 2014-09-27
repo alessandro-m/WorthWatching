@@ -1,6 +1,7 @@
 require 'nokogiri'
 require 'typhoeus'
 require 'json'
+require 'cgi'
 
 module WorthWatching
   class Aggregator
